@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Zhiyong Wang1</title>
+      <link>/author/dr.-zhiyong-wang1/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/dr.-zhiyong-wang1/</guid>
+      <description>&lt;p&gt;I was a researcher in the 3D geoinformation research group, at the Delft University of Technology, in the Netherlands. I hold a PhD degree in Geomatics (graduated on 9 June 2015). My PhD research topic was &amp;ldquo;Navigation for first responders&amp;rdquo;, which was supervised by prof.dr. S. Zlatanova (co-promotor) and Prof. dr. ir. P.J.M. van Oosterom  (promotor). In my PhD study, I focused on the approaches supporting path planning for first responder in the presence of moving obstacles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/author/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
