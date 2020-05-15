@@ -5,7 +5,7 @@ math: true
 diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**Zhiyong Wang**]'
+  caption: ''
 ---
 In this study, we investigate using OpenStreetMap data to integrate indoor and outdoor route planning for pedestrians. 
 * Constructed 3D indoor environments from OSM data 
