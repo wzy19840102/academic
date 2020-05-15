@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Hugo Site1"
+theme = "ananke"
+baseurl = "https://wzy19840102.github.io/"
+canonifyURLs = false

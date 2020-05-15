@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Nationale GI Minor
+summary: I am involved in Nationale GI Minor, Geographic Analysis and Visualisation (supporting practical exercises, grading exams, internship supervision)
 weight: 1
 
 # Page metadata.
