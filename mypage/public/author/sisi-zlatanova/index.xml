@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sisi Zlatanova | Dr. Zhiyong Wang</title>
+    <link>/author/sisi-zlatanova/</link>
+      <atom:link href="/author/sisi-zlatanova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sisi Zlatanova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sisi Zlatanova</title>
+      <link>/author/sisi-zlatanova/</link>
+    </image>
+    
+    <item>
+      <title>A data model for route planning in the case of forest fires</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Traffic Information into the Path Planning among Moving Obstacles</title>
+      <link>/publication/jounnal_concentration/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jounnal_concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-agent based path planning for first responders among moving obstacles</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Route Determination for First Responders in the Presence of Moving Obstacles</title>
+      <link>/publication/journal-safe/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-safe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

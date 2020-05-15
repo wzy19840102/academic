@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: researcher of the Department of Human Geography and Spatial Planning
+role: Researcher of the Department of Human Geography and Spatial Planning
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,9 @@ interests:
 - Artificial Intelligence
 - Intelligent algorithms
 - Geographic information systems
+- 3D modeling
+- Machine learning
+- VGI
 
 education:
   courses:
@@ -61,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "z.wang2@uu.nl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,5 +72,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I was a researcher in the 3D geoinformation research group, at the Delft University of Technology, in the Netherlands. I hold a PhD degree in Geomatics (graduated on 9 June 2015). My PhD research topic was "Navigation for first responders", which was supervised by prof.dr. S. Zlatanova (co-promotor) and Prof. dr. ir. P.J.M. van Oosterom  (promotor). In my PhD study, I focused on the approaches supporting path planning for first responder in the presence of moving obstacles. 
+I am a postdoc working in the Department of human geography and spatial planning at the Utrecht University. Before this, I was a postdoc in the GIScience research group at the Heidelberg University, Germany. I hold a PhD degree from the Delft University of Technology, in the Netherlands (graduated on 9 June 2015). My PhD research topic was "Navigation for first responders", which was supervised by [prof.dr. S. Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova) and [Prof. dr. ir. P.J.M. van Oosterom](https://www.tudelft.nl/bk/over-faculteit/hoogleraren/profdrir-pjm-van-oosterom/). 
+I am focused on spatial data modeling, processing, management and analysis. My fields of expertise include geomatics, artificial intelligence (e.g., multi-agent system, machine learning), path planning, and optimization algorithms, etc. All of my publications can be found in [Google Scholar](https://scholar.google.com/citations?user=GkWO0hcAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Zhiyong_Wang18). Currently I am working on the Vitality Data Center (VDC) project, which studies the relationship between built environments (streets, buildings, and green spaces) and physical activities (e.g., walking, biking, and running).

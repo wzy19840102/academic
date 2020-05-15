@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Dr. Zhiyong Wang</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,19 +13,144 @@
     </image>
     
     <item>
-      <title>Dr. Zhiyong Wang5</title>
-      <link>/author/dr.-zhiyong-wang5/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/author/dr.-zhiyong-wang5/</guid>
-      <description>&lt;p&gt;I was a researcher in the 3D geoinformation research group, at the Delft University of Technology, in the Netherlands. I hold a PhD degree in Geomatics (graduated on 9 June 2015). My PhD research topic was &amp;ldquo;Navigation for first responders&amp;rdquo;, which was supervised by prof.dr. S. Zlatanova (co-promotor) and Prof. dr. ir. P.J.M. van Oosterom  (promotor). In my PhD study, I focused on the approaches supporting path planning for first responder in the presence of moving obstacles.&lt;/p&gt;
+      <title>Dr. Zhiyong Wang</title>
+      <link>/author/dr.-zhiyong-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/author/dr.-zhiyong-wang/</guid>
+      <description>&lt;p&gt;I am a postdoc working in the Department of human geography and spatial planning at the Utrecht University. Before this, I was a postdoc in the GIScience research group at the Heidelberg University, Germany. I hold a PhD degree from the Delft University of Technology, in the Netherlands (graduated on 9 June 2015). My PhD research topic was &amp;ldquo;Navigation for first responders&amp;rdquo;, which was supervised by 
+&lt;a href=&#34;https://research.unsw.edu.au/people/professor-sisi-zlatanova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prof.dr. S. Zlatanova&lt;/a&gt; and 
+&lt;a href=&#34;https://www.tudelft.nl/bk/over-faculteit/hoogleraren/profdrir-pjm-van-oosterom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. dr. ir. P.J.M. van Oosterom&lt;/a&gt;.
+I am focused on spatial data modeling, processing, management and analysis. My fields of expertise include geomatics, artificial intelligence (e.g., multi-agent system, machine learning), path planning, and optimization algorithms, etc. All of my publications can be found in 
+&lt;a href=&#34;https://scholar.google.com/citations?user=GkWO0hcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; and 
+&lt;a href=&#34;https://www.researchgate.net/profile/Zhiyong_Wang18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResearchGate&lt;/a&gt;. Currently I am working on the Vitality Data Center (VDC) project, which studies the relationship between built environments (streets, buildings, and green spaces) and physical activities (e.g., walking, biking, and running).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/author/robert-ford/</link>
+      <title>Aitor Moreno</title>
+      <link>/author/aitor-moreno/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/author/robert-ford/</guid>
+      <guid>/author/aitor-moreno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Zipf</title>
+      <link>/author/alexander-zipf/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/alexander-zipf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexey Noskov</title>
+      <link>/author/alexey-noskov/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/alexey-noskov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Toro</title>
+      <link>/author/carlos-toro/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/carlos-toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongchao Fan</title>
+      <link>/author/hongchao-fan/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/hongchao-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianga Shang</title>
+      <link>/author/jianga-shang/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/jianga-shang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Steenbruggen</title>
+      <link>/author/john-steenbruggen/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/john-steenbruggen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niu Lei</title>
+      <link>/author/niu-lei/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/niu-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Van Oosterom</title>
+      <link>/author/peter-van-oosterom/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/peter-van-oosterom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sisi Zlatanova</title>
+      <link>/author/sisi-zlatanova/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/sisi-zlatanova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tessio Novack</title>
+      <link>/author/tessio-novack/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/tessio-novack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>van Oosterom, Peter</title>
+      <link>/author/van-oosterom-peter/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/van-oosterom-peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang Zhiyong</title>
+      <link>/author/wang-zhiyong/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/wang-zhiyong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuke Hu</title>
+      <link>/author/xuke-hu/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/xuke-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiyong Wang</title>
+      <link>/author/zhiyong-wang/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/zhiyong-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zlatanova, Sisi</title>
+      <link>/author/zlatanova-sisi/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/author/zlatanova-sisi/</guid>
       <description></description>
     </item>
     

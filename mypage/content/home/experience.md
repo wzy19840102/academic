@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,6 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+  
 [[experience]]
   title = "Postdoc"
   company = "Utrecht university"
@@ -25,14 +27,33 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   description = """Working on the Vitality Data Center (VDC) project."""
   
+ [[experience]]  
+  title = "Postdoc"
+  company = "Heidelberg University"
+  company_url = ""
+  location = "Heidelberg"
+  date_start = "2016-07-01"
+  date_end = "2018-12-31"
+  description = """
+  * Integration of indoor and outdoor navigation based on OpenStreetMap
+  * Traffic prediction and noise Estimation from OpenStreetMap for routing avoiding noise polluted areas
+  """ 
 
 [[experience]]  
   title = "Postdoc"
   company = "Delft University of Technology"
   company_url = ""
   location = "Delft"
-  date_start = "2015-06"
-  date_end = "2015-8"
+  date_start = "2015-07-01"
+  date_end = "2015-08-31"
   description = """Investigated the integration of traffic information into the routing among moving obstacles"""
-
+  
+ [[experience]]  
+  title = "Visiting scholar"
+  company = "Vicomtech"
+  company_url = ""
+  location = "San Sebastian, Spain"
+  date_start = "2012-10-01"
+  date_end = "2012-11-30"
+  description = """Developed algorithms to optimize routes visiting booths in exhibitions""" 
 +++
