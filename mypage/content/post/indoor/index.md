@@ -7,7 +7,7 @@ image:
   placement: 3
   caption: ''
 ---
-In this study, we investigate using OpenStreetMap data to integrate indoor and outdoor route planning for pedestrians. 
+In this study, we investigated using OpenStreetMap data to integrate indoor and outdoor route planning for pedestrians. 
 * Constructed 3D indoor environments from OSM data 
 * Developed a web application for 3D maps 
 * Generated 3D CityGML models from OpenStreetMap
