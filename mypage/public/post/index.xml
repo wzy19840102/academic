@@ -47,15 +47,16 @@ More details of this project can be via &lt;a href=&#34;https://3d.bk.tudelft.nl
     </item>
     
     <item>
-      <title>Quiet route planning based on traffic noise estimation</title>
+      <title>Quiet route planning</title>
       <link>/post/noise/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       <guid>/post/noise/</guid>
       <description>&lt;p&gt;This project studied traffic noise Estimation from OpenStreetMap and used it for finding paths avoiding noise polluted areas.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed traffic volume estimation models using machine learning techniques (e.g., random forest and decision tree) and deep learning algorithm (neural networks)&lt;/li&gt;
-&lt;li&gt;Estimated traffic noise from VGI&lt;/li&gt;
-&lt;li&gt;Developed a navigation service to support quiet route planing for OpenRouteService&lt;/li&gt;
+&lt;li&gt;Estimated traffic noise from OpenStreetMap&lt;/li&gt;
+&lt;li&gt;Developed a navigation service to support quiet route planing for 
+&lt;a href=&#34;https://openrouteservice.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenRouteService&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The developments of this project can be found at &lt;a href=&#34;http://k1z.blog.uni-heidelberg.de/2017/07/10/reducing-stress-by-avoiding-noise-with-quiet-routing-in-openrouteservice/&#34;&gt;http://k1z.blog.uni-heidelberg.de/2017/07/10/reducing-stress-by-avoiding-noise-with-quiet-routing-in-openrouteservice/&lt;/a&gt;.&lt;/p&gt;
 </description>
