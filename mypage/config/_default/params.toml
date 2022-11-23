@@ -82,12 +82,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "z.wang2@uu.nl" 
-phone = "+31302532767"
+email = "zwang1984@scut.edu.cn" 
+phone = "+135-0308-3186"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Princetonlaan 8A", city = "Utrech", region = "Utrech", postcode = "3584 CB ", country = "The netherlands", country_code = "NL"}
+address = {street = "Wushan RD NO. 381", city = "Guangzhou", region = "Guangdong", postcode = " ", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

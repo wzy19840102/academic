@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Experience"
+title = "Experience (工作经历)"
 subtitle = ""
 
 # Date format for experience
@@ -20,12 +20,22 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+ 
+   title = "Associate professor"
+  company = "South china university of technology (华南理工大学)"
+  company_url = ""
+  location = "Guangzhou"
+  date_start = "2022-09-01"
+  description = """"""
+ 
+ [[experience]]   
   title = "Postdoc"
   company = "Utrecht university (荷兰乌特勒支大学)"
   company_url = ""
   location = "Utrecht"
   date_start = "2019-01-01"
-  description = """Working on the Vitality Data Center (VDC) project."""
+  date_end = "2022-05-31"
+  description = """The Vitality Data Center (VDC) project."""
 
  [[experience]]  
   title = "Postdoc"
@@ -50,7 +60,7 @@ date_format = "Jan 2006"
 
  [[experience]]  
   title = "Visiting scholar"
-  company = "Vicomtech"
+  company = "Vicomtech 研究所"
   company_url = ""
   location = "San Sebastian, Spain"
   date_start = "2012-10-01"
