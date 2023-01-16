@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 22:59:17 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
+      <title>My First Post lala lala</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Apr 2020 22:59:17 +0200</pubDate>
+      <guid>/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Navigation for first responders among moving obstacles</title>
       <link>/post/phd/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/post/phd/</guid>
-      <description>&lt;p&gt;This is my phd research and aim at developing an integrated navigation system for first responders in the presence of moving obstacles, using the agent technology.
+      <description>&lt;p&gt;This is my phd research and aim at developing an integrated navigation system for first responders in the presence of moving obstacles, using the agent technology. 
 More details of this project can be via &lt;a href=&#34;https://3d.bk.tudelft.nl/projects/navigation/&#34;&gt;https://3d.bk.tudelft.nl/projects/navigation/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

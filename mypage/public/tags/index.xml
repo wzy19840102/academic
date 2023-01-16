@@ -12,29 +12,5 @@
       <link>/tags/</link>
     </image>
     
-    <item>
-      <title>Deep Learning</title>
-      <link>/tag/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tag/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tag/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tag/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>/tag/source-themes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/tag/source-themes/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

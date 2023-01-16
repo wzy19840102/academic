@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Zhiyong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dr. Zhiyong Wang</title>
@@ -35,11 +35,19 @@
     </item>
     
     <item>
+      <title>My First Post lala lala</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Apr 2020 22:59:17 +0200</pubDate>
+      <guid>/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Navigation for first responders among moving obstacles</title>
       <link>/post/phd/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/post/phd/</guid>
-      <description>&lt;p&gt;This is my phd research and aim at developing an integrated navigation system for first responders in the presence of moving obstacles, using the agent technology.
+      <description>&lt;p&gt;This is my phd research and aim at developing an integrated navigation system for first responders in the presence of moving obstacles, using the agent technology. 
 More details of this project can be via &lt;a href=&#34;https://3d.bk.tudelft.nl/projects/navigation/&#34;&gt;https://3d.bk.tudelft.nl/projects/navigation/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -99,13 +107,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
+Three 
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -333,6 +341,22 @@ Three
       <link>/courses/example/example2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/example/example2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/future/example/example1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/future/example/example1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/future/example/example2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/future/example/example2/</guid>
       <description></description>
     </item>
     

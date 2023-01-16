@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -18,12 +13,17 @@
   </url>
   
   <url>
-    <loc>/post/phd/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2020-04-19T22:59:17+02:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-04-19T22:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/phd/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>/author/dr.-zhiyong-wang/</loc>
+    <loc>/author/dr.-zhiyong-wang-%E7%8E%8B%E5%BF%97%E5%8B%87%E5%8D%9A%E5%A3%AB/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -60,6 +60,11 @@
   <url>
     <loc>/post/noise/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -244,17 +249,26 @@
   
   <url>
     <loc>/courses/example/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/courses/example/example1/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/courses/example/example2/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/future/example/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/example/example1/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/example/example2/</loc>
   </url>
   
   <url>
@@ -263,6 +277,10 @@
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/</loc>
   </url>
   
 </urlset>

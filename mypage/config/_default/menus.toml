@@ -9,16 +9,14 @@
   url = "#posts"
   weight = 20
 
-
-
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Future students"
+  url = "future/"
   weight = 50
 
 [[main]]
